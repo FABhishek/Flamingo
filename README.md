@@ -1,3 +1,7 @@
+npm install 
+npm i bootstrap
+npm i bootstrap-icons
+
 # Flamingo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
