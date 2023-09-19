@@ -12,6 +12,8 @@ interface carouselImages {
   styleUrls: ['./carousel.component.scss']
 })
 export class CarouselComponent {
+
+
   images: carouselImages[] = [
     {
       imageSrc: 'https://images.pexels.com/photos/333525/pexels-photo-333525.jpeg?auto=compress&cs=tinysrgb&w=600',
