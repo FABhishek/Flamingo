@@ -47,43 +47,43 @@
     opacity: 1;
 }
 
-.btn-carousel{
-     position: absolute;
-     top: 0;
-     bottom: 0;
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     width: 8%;
-     padding: 0;
-     color: #fff;
-     text-align: center;
-    //  background: 0 0;
-     border: 0;
-     cursor: pointer;
-} 
-.btn-prev{
-    left: 0;
-}
+// .btn-carousel{
+//      position: absolute;
+//      top: 0;
+//      bottom: 0;
+//      display: flex;
+//      align-items: center;
+//      justify-content: center;
+//      width: 8%;
+//      padding: 0;
+//      color: #fff;
+//      text-align: center;
+//     //  background: 0 0;
+//      border: 0;
+//      cursor: pointer;
+// } 
+// .btn-prev{
+//     left: 0;
+// }
 
-.btn-next{
-    right: 0;
-}
+// .btn-next{
+//     right: 0;
+// }
 
-.icon-carousel{
-    opacity: 0.5;
-    transition: all 0.15s ease;
-}
-.icon-carousel:hover{
-    color: #fff;
-    opacity: 0.9;
-}
+// .icon-carousel{
+//     opacity: 0.5;
+//     transition: all 0.15s ease;
+// }
+// .icon-carousel:hover{
+//     color: #fff;
+//     opacity: 0.9;
+// }
 
-.icon-carousel:active{
-    opacity: 0.5;
-}
+// .icon-carousel:active{
+//     opacity: 0.5;
+// }
 
-.icon-prev,
-.icon-next{
-    font-size: 25px;
-}
+// .icon-prev,
+// .icon-next{
+//     font-size: 25px;
+// }
